@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Inception",
+    "year": "2010",
+    "genre": "Sci-Fi",
+    "director": "Christopher Nolan",
+    "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "genre": "Action",
+    "director": "Christopher Nolan",
+    "actors": "Christian Bale, Heath Ledger, Aaron Eckhart"
+  }
+]
